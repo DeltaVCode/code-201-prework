@@ -13,7 +13,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 ### Overview of Pre-work Steps *(time to complete per item)*
 
-1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech)
+1. Code 101 *(optional, one full 12-hour day)* [Details](http://www.deltavcodeschool.com/course-catalog/code-101/)
 2. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
 3. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
 4. Download and Install Slack *(15-30 minutes)*
@@ -29,7 +29,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 **Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
 
 ##### 1. Code 101 *(optional, one full 12-hour day)*
-If you are completely new to coding, consider completing <a href="https://www.codefellows.org/courses/code-101/intro-to-software-development-and-careers-in-tech">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
+If you are completely new to coding, consider completing <a href="http://www.deltavcodeschool.com/course-catalog/code-101/">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
 ##### 2. Ensure your laptop up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
 
@@ -54,7 +54,7 @@ Following completion of these Pre-work assignments, you should:
 
 If you haven't already, purchase this textbook set prior to the first day of class:
 
-  - <a href="http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
+  - <a href="https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&amp;me=">Web Design with HTML &amp; CSS; JavaScript &amp; jQuery book set</a> by Jon Duckett
 
 ##### 5. Brush up on Algebra *(1-2 hours)*
 
