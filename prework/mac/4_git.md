@@ -24,7 +24,7 @@ If you are running:
 
 - 10.9 Mavericks: download and install this <a href="http://sourceforge.net/projects/git-osx-installer/files/git-2.5.3-intel-universal-mavericks.dmg/download" target="_blank">git-*-mavericks</a>
 
-- 10.10 Yosemite: continue below
+- 10.10 Yosemite or higher: continue below
 
 **NOTE:** You will need to change your install permissions to be able to install Git. The installer will prompt you to do so if necessary.
 
@@ -79,4 +79,4 @@ user.name='YOUR FULL NAME'
 
 You have now completed Step 3 of 9 in the Code 201 pre-work. Please follow the README link below to complete the remaining steps (4-9).
 
-### [⇐ Previous](3_atom.md) | [README ⇒](../../../../)
+### [⇐ Previous](3_vscode.md) | [Back to README ⇒](../../../../)

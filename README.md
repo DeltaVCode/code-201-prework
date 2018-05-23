@@ -3,9 +3,9 @@ Code 201: Foundations of Software Development
 
 ### Pre-work
 
-There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
+There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System (called Canvas, by a company named Instructure) shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
 
-Pre-work is outlined in nine steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
+Pre-work is outlined in ten steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
 
@@ -13,27 +13,26 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 
 ### Overview of Pre-work Steps *(time to complete per item)*
 
-1. Code 101 *(optional, one full 12-hour day)* [Details](http://www.deltavcodeschool.com/course-catalog/code-101/)
-2. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
-3. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
-4. Download and Install Slack *(15-30 minutes)*
-5. Purchase Required textbooks *(15-30 minutes)*
-6. Brush up on Algebra *(1-2 hours)*
-7. Practice the Terminal *(2-3 hours)*
-8. Read through a Git tutorial on Udemy *(1-2 hours)*
-9. Tutorials on Codecademy
-  - HTML/CSS *(Codecademy estimates 7 hours; we suggest allowing 10 hours)*
-  - JavaScript *(Codecademy estimates 10 hours; we suggest allowing 20 hours because this is the most challenging piece of the pre-work)*
-10. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.deltavcodeschool.com/course-catalog/code-101/)
+1. Laptop readiness *(time for this can vary widely depending upon the age and condition of your laptop)*
+1. Setup Guide for Your OS *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+1. Purchase Required textbooks *(15-30 minutes)*
+1. Brush up on Algebra *(1-2 hours)*
+1. Practice the Terminal *(2-3 hours)*
+1. Read through a Git tutorial on Udemy *(1-2 hours)*
+1. HTML, CSS, and Javascript tutorials from Khan Academy *(estimated at 15-40 hours)*
+1. Complete the textbook readings for Day 1 of class *(2-3 hours)*
+1. Download and Install Slack *(15-30 minutes)*
+1. Complete the assigned Career Coaching assignments *(2-3 hours)*
 
-**Total estimated time for pre-work Steps 3-10: 23.5 to 43 hours of working time (not counting breaks)**
+**Total estimated time for pre-work Steps 3-10: 25 to 57 hours of working time (not counting breaks)**
 
 ##### 1. Code 101 *(optional, one full 12-hour day)*
-If you are completely new to coding, consider completing <a href="http://www.deltavcodeschool.com/course-catalog/code-101/">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
+If you are completely new to coding, consider completing <a href="https://www.deltavcodeschool.com/course-catalog/code-101/">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
-##### 2. Ensure your laptop up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
+##### 2. Ensure your laptop is up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
 
-  - Is virus and malware free
+  - Eliminate all viruses and malware
   - Uses the latest, stable, updated version of its operating system
   - Has a functioning screen, keyboard, and trackpad
   - Has plenty of free hard drive space and memory
@@ -48,7 +47,7 @@ If you are completely new to coding, consider completing <a href="http://www.del
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
- - Be able to open Atom from the Terminal or Git Bash.
+ - Be able to open VSCode from the Terminal or Git Bash.
 
 ##### 4. Purchase the required textbooks *(15-30 minutes)*
 
@@ -70,30 +69,33 @@ You don't need to read through each topic, but you should have familiarity with 
 
 One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
-If you aren't already, this is a great time to get used to the command line. Here are a few tutorials that can assist you:
+If you aren't already, this is a great time to get used to the command line. Here is a tutorial that can assist you:
 
-1. **Treehouse** - This is a great set of online video tutorials with practice problems/quizzes.  It is free to try (2 week trial).  
+ **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
 
-	Do the first part of Console Foundations course (just the "Getting Started With the Console" section, which takes about an hour)  [https://teamtreehouse.com/library/console-foundations] (https://teamtreehouse.com/library/console-foundations)
-	Feel free to explore the more advanced topics if you wish (Users and Permissions, Environment and Redirection, etc.) but those topics are beyond the scope of the Code 201 course!
-
-2. **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
-
-	Please work through sections 1 through 5 of the linux tutorial. Also recommended: 7 and 8.
+    Please work through sections 1 through 5 of the Linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish, but those topics are beyond the scope of the Code 201 course!
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
-##### 7. Read through this Git tutorial on Udemy *(1-2 hours)*
+##### 7. Git tutorials *(1-2 hours)*
 
-There is a lot of useful information in this tutorial, but it is a lot to digest for beginners. Read through as much of it as you can while still understanding what is going on. Learning about version control is one of the most challenging things in the first week of the class. Above all, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
+**A.** There is a lot of useful information in the Udemy tutorial, but it is a lot to digest for beginners. Skim through it as you can while striving to acquire terminology and gaining an understanding of the large concepts. Learning about version control is one of the most challenging things in the first week of Code 201. Above all, for now, strive for a conceptual understanding of how version control works, and why we use it in software development. The details are much more easy to grasp once the concepts are in place.
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
-##### 8. Tutorials *(17-30 hours)*
-Complete these tutorials prior to the first day of class.
+**B.** For a little hands-on practice, complete the first three exercises in the following tutorial:
 
-   - <a href="https://www.codecademy.com/tracks/web">HTML/CSS Codecademy</a>
-   - <a href="https://www.codecademy.com/tracks/javascript">JavaScript Codecademy</a>
+[https://learngitbranching.js.org](https://learngitbranching.js.org )
+
+1. Introduction to Git Commits
+1. Branching in Git
+1. Merging in Git
+
+##### 8. HTML, CSS, and JS Tutorials *(25-50 hours)*
+Complete these online tutorials prior to the first day of class.
+
+   - <a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML+CSS</a> (up through and including the “Web development tools” section) on Khan Academy
+   - <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a> on Khan Academy
 
 ##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
@@ -109,12 +111,23 @@ We get started right away on Day 1, so be sure to read the following chapters fr
 
 Plan to spend about 20-30 minutes with each chapter. Do not strive to methodically read and retain every single word, because we cover hundreds of pages of text in the first two weeks of the course. Instead, aim for an understanding of the big topics and orientation to where the details are so that you can find them when you need them. And be sure to read closely enough to come up with questions and observations based on your reading!
 
+It can be helpful to start each chapter by reading the single-page summary at the end of the chapter to get a feel for the most important topics.
+
 ##### 10. Download and Install Slack (do this step after your enrollment is completed) *(15-30 minutes)*
 
-We use Slack to distribute files and collaborate before, during, and after the workshop.
+We use Slack to distribute files and collaborate before, during, and after the workshop. Install the app on both your laptop and on your mobile device.
 
-  - <a href="https://slack.com/downloads">Download Slack</a>
+  - [Download Slack](https://slack.com/downloads)
 
 Look for an email from us prior to class, in order to join our Slack team.
 
 Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
+
+#### 11. Complete the assigned Career Coaching assignments *(2-3 hours)*
+
+There are four assignments for you to complete in this category before the first class; details are in the linked documents:
+
+- [Read the Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/)
+- [Complete the Professional Competency Self-Assessment](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competency_Self-Assessment)
+- [Prepare your resume](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume)
+- [Prepare your LinkedIn profile](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_LinkedIn)

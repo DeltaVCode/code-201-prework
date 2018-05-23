@@ -1,6 +1,8 @@
 Setup for Windows
 -----------------
 
+**First off, make sure that your laptop is updated to Windows 10. Earlier versions of Windows do not universally support the tools and software that we use. Learning to update and maintain your dev environment is an important part of being a professional in the field.**
+
 This guide will help you setup a software development environment on <a href="http://windows.microsoft.com/en-us/windows/products" target="_blank">Windows 7</a> and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
 
 This guide is mostly compatible with older versions of Windows. So follow along as best you can while Googling any problems you come across.
@@ -64,4 +66,4 @@ Here's what happened:
 
 Simply stated, a Unix shell works in a read-evaluate-print loop or **REPL**.
 
-### [Next ⇒](2_atom.md)
+### [Next ⇒](2_vscode.md)
