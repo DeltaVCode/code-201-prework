@@ -11,9 +11,13 @@ sudo apt-get update
 
 **TIP:** This may require your account password which **will not** appear on the screen as you type.
 
+### Install Tree view
+
 Once that's done we can install a quick awesome command called `tree`. What `tree` does is displays all of your directories and files in a nicely formatted tree so you can easily see your current file structure!
 
-Type `sudo apt-get install tree`. Once that's done, you can type `tree` to see the tree view of the directory that you're currently in! You may have to close and restart your terminal before it will work.
+Type `sudo apt install tree`. Once that's done, you can type `tree` to see the tree view of the directory that you're currently in! You may have to close and restart your terminal before it will work.
+
+--
 
 These commands tell APT where to look for certain files (Git). We'll use them in the next step.
 

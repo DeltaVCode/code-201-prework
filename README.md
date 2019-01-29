@@ -3,7 +3,9 @@ Code 201: Foundations of Software Development
 
 ### Pre-work
 
-There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You'll have the opportunity to report your progress on these assignments in our Learning Management System (called Canvas, by a company named Instructure) shortly after you've completed the enrollment process. In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
+There is mandatory pre-work for Code 201 that counts as 5% of your total course grade. You will have required assignments to submit in our Learning Management System (called Canvas, by a company named Instructure). You will get access to Canvas shortly after you've completed the enrollment process; these assignments documenting your completion of the prework are due by the beginning of the first class. Completing these Canvas assignments will take only a few minutes each, and note that time estimates are provided below for the individual prework components.
+
+In the meantime, please keep notes on your progress through these pre-work assignments, including the time you have invested in them and also details on any questions or problems you encounter.
 
 Pre-work is outlined in ten steps on this page. Note that in Step 3 there are specific instructions that are dependent upon your operating system, and also keep in mind that upon completing those steps that there are still Steps 4-9 to complete on this page, including code tutorials that take quite a bit of time.
 
@@ -42,12 +44,12 @@ If you are completely new to coding, consider completing <a href="https://www.de
 
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)
-  - [Windows](prework/windows/1_terminal.md)
+  - [Windows](prework/windows/01_preface.md)
 
-Following completion of these Pre-work assignments, you should:
- - Have a terminal with a Git compatible prompt
- - Be able to receive a valid response when typing "git --version"
- - Be able to open VSCode from the Terminal or Git Bash.
+Following completion of these Pre-work assignments, students should:
+ - Have a terminal with a Git compatible prompt.
+ - Be able to receive a valid response when typing "git --version" in their Terminal or Ubuntu app.
+ - Be able to open VSCode from the Terminal or Ubuntu app on their computer.
 
 ##### 4. Purchase the required textbooks *(15-30 minutes)*
 
@@ -69,11 +71,13 @@ You don't need to read through each topic, but you should have familiarity with 
 
 One significant aspect of creating software is interacting directly with text files. One of the most efficient ways to do this is through the Terminal, or Command Line.
 
-If you aren't already, this is a great time to get used to the command line. Here is a tutorial that can assist you:
+If you aren't already, this is a great time to get used to the command line. No matter which operating system you're using, this tutorial can help you feel confident using the command line to navigate your computer:
 
- **Linux Tutorial** (Mac and Linux are pretty similar): [http://linuxtutorial.todolistme.net](http://linuxtutorial.todolistme.net)
+[https://ryanstutorials.net/linuxtutorial](https://ryanstutorials.net/linuxtutorial)
 
-    Please work through sections 1 through 5 of the Linux tutorial. Also recommended: 7 and 8. Feel free to explore the more advanced topics if you wish, but those topics are beyond the scope of the Code 201 course!
+Please work through Sections 1 through 5 of this tutorial. Note: This tutorial is for everyone, even though the word "Linux" is in the title! The same commands work in Windows and MacOS terminals as well.
+
+Also recommended from this tutorial: Section 14, which is a handy cheatsheet of commands. Feel free to explore the more advanced topics if you wish, but those topics are beyond the scope of the Code 201 course!
 
 Using the terminal may feel a little scary at first, but stick with it and give it some practice. This is you, in charge of your computer. :]
 
@@ -96,6 +100,8 @@ Complete these online tutorials prior to the first day of class.
 
    - <a href="https://www.khanacademy.org/computing/computer-programming/html-css">Intro to HTML+CSS</a> (up through and including the “Web development tools” section) on Khan Academy
    - <a href="https://www.khanacademy.org/computing/computer-programming/programming">Intro to JavaScript: Drawing and Animation</a> on Khan Academy
+
+   **Note:** In the JavaScript course, do everything up through and including the section titled "Arrays"; do not worry about doing the section titled "Objects" or what follows.
 
 ##### 9. Complete the textbook readings for Day 1 of class *(2-3 hours)*
 
