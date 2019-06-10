@@ -11,8 +11,6 @@ Pre-work is outlined in ten steps on this page. Note that in Step 3 there are sp
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. Expect to spend, **at a minimum**, several evenings and a weekend day or two to get everything completed. Allow yourself more time than you think you will need so that you can take breaks and work at a methodical pace without rushing or trying to cut corners. Detailed time estimates are provided in the following overview.
 
-##### NOTE: If you have taken Code 101 already, skip to #3. The guide in #3 is similar to Code 101's pre-work but contains additional steps you must complete prior to Code 201.
-
 ### Overview of Pre-work Steps *(time to complete per item)*
 
 1. Code 101 *(optional, one full 12-hour day)* [Details](https://www.deltavcodeschool.com/course-catalog/code-101/)
@@ -32,7 +30,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 ##### 1. Code 101 *(optional, one full 12-hour day)*
 If you are completely new to coding, consider completing <a href="https://www.deltavcodeschool.com/course-catalog/code-101/">Code 101</a> to build your first website using HTML and CSS and to find out if a career in software development is right for you.
 
-##### 2. Ensure your laptop is up to the task of coding *(time for this can vary widely depending upon the age and condition of your laptop)*
+##### 2. Ensure your laptop is up to the task of coding specified in the [Code Fellows Material Requirements](https://www.codefellows.org/courses/code-201/foundations-of-software-development/#material-requirements) *(time for this can vary widely depending upon the age and condition of your laptop)*
 
   - Eliminate all viruses and malware
   - Uses the latest, stable, updated version of its operating system
@@ -41,6 +39,8 @@ If you are completely new to coding, consider completing <a href="https://www.de
   - Can reliably connect to wireless networks
 
 ##### 3. Complete the setup guide for your computer's operating system *(multiple downloads are involved; 1-3 hours depending on your network speed)*
+
+###### CODE 101/102 DOES NOT COVER YOUR COMPUTER SETUP FOR 201. MAKE SURE TO FOLLOW THE ENTIRE SETUP GUIDE FOR YOUR OPERATING SYSTEM 
 
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)

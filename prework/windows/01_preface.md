@@ -34,10 +34,10 @@ The vast majority of issues with Web Development on Windows stems from not being
  
 The typical workflow looks like this: 
 1. Open whichever Linux distro you are using, which is just like opening a terminal window.
-1. Work normally, doing everything in the Windows FS.  
+1. Work normally, doing everything in the Windows FS.
 1. When you need new software, navigate to the Subsystem's FS and install the program through the command line. 
 1. Navigate back to the Windows FS and use the software as needed. 
-- Since the software is connected through the PATH, it runs just fine. 
+    - Since the software is connected through the PATH, it runs just fine. 
 
 ## Summary
 
@@ -47,4 +47,4 @@ The work flow is also extremely simple as you are just working in a terminal lik
 
 ## Getting Started
 
-[Setting up WSL and the Ubuntu App](./02_WSL_Ubuntu_setup.md)
+### [Next ⇒](./02_WSL_Ubuntu_setup.md)

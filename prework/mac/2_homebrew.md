@@ -60,7 +60,7 @@ If Homebrew is not installed, you will see something like:
 
 Now that we've verified that homebrew was installed, we can use it to install a useful command for us called tree!
 
-Type ` brew install tree` into the command line.
+Type `brew install tree` into the command line.
 
 Onces that's complete, you should now be able to type tree and your terminal will display all of your directories and folders in an awesome looking tree view format!
 
